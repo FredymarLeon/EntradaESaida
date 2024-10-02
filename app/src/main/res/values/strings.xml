@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test XML</string>
+    <string name="screen_title">Conversor de medidas</string>
+    <string name="input_value_label">Insira o valor</string>
+    <string name="centimeters_label">Centímetros</string>
+    <string name="inch_label">polegadas</string>
+    <string name="convert_label">Converter</string>
+
+    <string name="cm_to_inch_output">%s centímetros é equivalente a %s polegadas</string>
+    <string name="inch_to_cm_output">%s polegadas é equivalente a %s centímetros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_checkbox">Checkbox</string>
+    <string name="label_spinner">Spinner</string>
+    <string name="label_seekbar">Seekbar</string>
+    <string name="label_rating">Rating bar</string>
+    <string name="label_img_view">ImageView</string>
+    <string name="label_alert_dialog">Alert Dialog</string>
+    <string name="label_snack_bar">Snack Bar</string>
+    <string name="label_input_components">Componentes de Entrada</string>
+    <string name="label_output_components">Componentes de Saída</string>
+</resources>
