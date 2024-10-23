@@ -39,6 +39,8 @@ class CheckBoxFragment : Fragment() {
         check3 = view.findViewById(R.id.optionThree)
         check4 = view.findViewById(R.id.optionFour)
 
+
+
         setupCheckBox()
     }
 
